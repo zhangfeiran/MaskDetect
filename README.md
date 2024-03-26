@@ -1,3 +1,5 @@
+# Human Mask Detection with PyTorch
+
 - 每部分文件作用描述（以codes为根文件夹，下同）：
     - data/：存放相关非代码文件，包括：
         - AIZOO数据库（./data/AIZOO/train/1_HandShanking...）（下载地址略）
